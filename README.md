@@ -1,6 +1,7 @@
 # Symfony Painter Project
 
-This project is a painter website, made with Symfony 5. More details coming soon.
+This project is a food recipe app, made with Symfony 6.2. 
+More details coming soon.
 
 ## Development Environment
 
@@ -10,8 +11,6 @@ This project is a painter website, made with Symfony 5. More details coming soon
 - Composer
 - Symfony 6.2
 - Symfony CLI
-<!-- - Docker
-- Docker-compose -->
 
 You can check the requirements (except for Docker & Docker-compose) by executing this symfonyCLI command :
 
@@ -22,7 +21,6 @@ symphony check:requirements
 ### Run the environment
 
 ```bash
-docker-compose up -d
 symfony serve -d
 ```
 
