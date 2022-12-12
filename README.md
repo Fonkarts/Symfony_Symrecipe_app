@@ -3,6 +3,8 @@
 This project is a food recipe app, made with Symfony 6.2. 
 More details coming soon.
 
+First hosted on GitLab : https://gitlab.com/Fonkarts/symfony_symrecipe_app
+
 ## Development Environment
 
 ### Requirements
